@@ -23,10 +23,12 @@ Below is a list of my research papers, divided by topic, with an informal introd
 <center><img src="../images/hyperbolic.svg" width="60%"></center>
 
 ## Lagrange Spectrum
-**_Diophantine approximation_** is the area of number theory which studies how well real numbers can be approximate by rational ones. It dates back to the 19th century and it has been generalized to a variety of context.
+**_Diophantine approximation_** is the area of number theory which studies how well real numbers can be approximate by rational ones.
+It dates back to the 19th century and it has been generalized to a variety of context.
 Badly approximable numbers are real numbers which cannot be approximated better than quadratically in the denominator of the rational approximand.
-Given a badly approximable number, we can improve this quadratic error by a constant factor. The union of such constants forms the **_Lagrange Spectrum_**, a classical object in Diophantine approximation.
-Using other point of view, the Spectrum has been generalized to hyperbolic surfaces (via the well-known link between continued fractions and geodesic flow on the modular surface) and to a particularly symmetric kind of translation surfaces, called Veech surfaces.
+Given a badly approximable number, we can improve this quadratic error by a constant factor.
+The union of such constants forms the **_Lagrange Spectrum_**, a classical object in Diophantine approximation.
+Using a different point of view, the Spectrum has been generalized to hyperbolic surfaces (via the well-known link between continued fractions and geodesic flow on the modular surface) and to a particularly symmetric kind of translation surfaces, called Veech surfaces.
 The idea behind this generalization is that the Lagrange Spectrum measures the asymptotic excursions of geodesics into cusps, and thus has a natural dynamical interpretation.
 Together with Luca Marchese and Corinna Ulcigrai, we proved that the Spectrum of a Veech surface and of a hyperbolic one both contain a semi-infinite interval, called *Hall ray*.
 In the hyperbolic case we furthermore prove that this is stable under small perturbations of the way in which we measure the excursions into the cusps.
@@ -46,7 +48,7 @@ In the hyperbolic case we furthermore prove that this is stable under small pert
 <img style="float: left; width:25%; margin-right:2%; margin-bottom:2%; margin-top:3%;"  src="../images/eaton.svg" width="40%" title="An Eaton lens">
 In the last ten years there has been a growing interest on **_infinite_** translation surfaces, where the adjective infinite can stand both for infinite topological type and for infinite area.
 I have been working on the surface obtained from an infinitely periodic pattern of identical Eaton lenses in the plane. These lenses are examples of perfect retroflector, meaning that when a light-ray comes into one of them it gets reflected exactly in the same direction but with opposite orientation. Via a standard procedure this yields an infinite (both in genus and area) translation surface.
-The geodesic flow on this family of surfaces has been shown to be generically non-ergodic, in contrast to what happens for compact translation surfaces, where the flow in almost every direction is uniquely ergodic. More precisely, a trajectory of the flow and in a generic direction on a generic surface is trapped inside an infinite strip of bounded width.
+The geodesic flow on this family of surfaces has been shown to be generically non-ergodic, in contrast to what happens for compact translation surfaces, where the flow in almost every direction is uniquely ergodic. More precisely, a trajectory of the flow in a generic direction on a generic surface is trapped inside an infinite strip of bounded width.
 I have constructed exceptional surfaces on which the flow in the vertical direction is ergodic and, in particular, fill out the infinite surface. The set of these exceptional surfaces is small in the sense of measure due to the above result, but I showed that it has big Hausdorff dimension.
 
 #### Papers
