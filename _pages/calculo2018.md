@@ -23,3 +23,4 @@ image:
 
 + [First partial](../../files/fpcalc20182.pdf) and its [Solutions](../../files/fpcalc20182sol.pdf)
 + [Second partial](../../files/spcalc20182.pdf) and its [Solutions](../../files/spcalc20182sol.pdf)
++ [Third partial](../../files/tpcalc20182.pdf) and its [Solutions](../../files/tpcalc20182sol.pdf)
