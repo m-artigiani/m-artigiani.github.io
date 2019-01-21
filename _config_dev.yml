@@ -16,8 +16,8 @@
 title: Mauro Artigiani
 email: m.artigiani@uniandes.edu.co
 description: >- # this means to ignore newlines until "baseurl:"
-  Mauro Artigiani, tentatively mathematician at Universidad de los Andes and full time procastinator.
-  Roman borned European.
+    Mauro Artigiani, tentatively mathematician at Universidad de los Andes.
+    Roman borned European.
 sourcecode: "https://github.com/m-artigiani/m-artigiani.github.io"
 
 baseurl: #"" # the subpath of your site, e.g. /blog
