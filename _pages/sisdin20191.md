@@ -33,3 +33,9 @@ Libro de texto y notas:
 
 + Michael Brin, Garrett Stuck, _Introduction to Dynamical
 Systems_, Cambridge University Press, Cambridge, 2002.
+
+**Diario de las lecciones:**
++ 23/01: Introducción al curso.
++ 25/01: Definiciones de bases: sistemas dinámicos discretos y continuos. Puntos periódicos y prepreriódicos. Rotaciones del circulo: dicotomía de las órbitas. Equidistribución modulo 1 y teorema de Weyl: las órbitas de las rotaciones irracionales son equidistribuidas modulo 1.
+Mapeo de duplicación del circulo. Codifica binaria de los reales. Semiconjucación entre el mapeo de duplicación y el desplazamiento lateral. Puntos periódicos por el mapeo de duplicación.
++ 30/01: Construcción de una órbita densa para el mapeo de duplicación. Mapeo del panadero y extensiones naturales. Semiconjucación del mapeo del panadero con el desplazamiento completo. Endomorfismos y automorfismos continuos del toro. Ejemplo CAT de Arnol'd. Definición de automorfismo toral hiperbólico. Los puntos racionales en el toro son puntos periódicos por un automorfismo toral.
