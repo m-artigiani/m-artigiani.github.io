@@ -25,3 +25,5 @@ Lunes: 9.00-11.00. Oficina: H-001.
 [Syllabus](../../files/sylcalc20191.docx)
 
 Libro de texto: Stewart, _Cálculo: Trascendentes Tempranas_ (Sexta edición).
+
+[**Primera tarea**](../../files/1Tarea.pdf) **Entrega martes 05/02**
