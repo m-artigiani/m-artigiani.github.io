@@ -24,7 +24,7 @@ Vamos a introducir las nociones fundamentales utilizando ejemplos.
    Miércoles y viernes 9.00-10.50, Aula: O_304.
 
 **Horario de atención**:
-Lunes: 11.00-13.00. Oficina: H-001.
+Viernes: 11.00-12.30. Oficina: H-001.
 
 [Syllabus](../../files/sylsisdin20191.pdf)
 
@@ -40,3 +40,5 @@ Systems_, Cambridge University Press, Cambridge, 2002.
 Mapeo de duplicación del circulo. Codifica binaria de los reales. Semiconjucación entre el mapeo de duplicación y el desplazamiento lateral. Puntos periódicos por el mapeo de duplicación.
 + 30/01: Construcción de una órbita densa para el mapeo de duplicación. Mapeo del panadero y extensiones naturales. Semiconjucación del mapeo del panadero con el desplazamiento completo. Endomorfismos y automorfismos continuos del toro. Ejemplo CAT de Arnol'd. Definición de automorfismo toral hiperbólico. Los puntos racionales en el toro son puntos periódicos por un automorfismo toral.
 + 01/02: Los puntos periódicos de un automorfismo toral son racionales. Teorema de Pick y numero de puntos periódicos de período _n_. Familia cuadrática y análisis grafica. Puntos fijos atractores y repulsores. Relación entre modulo de la derivada y estabilidad, cascada de duplicaciones de períodos. Mapeo de Gauss y fracciones continuas, definiciones.
++ 05/02: Las digitas de la fracción continua de un irracional son el itinerario del mapeo de Gauss. Ejemplos: Herradura y el conjunto de Cantor. Flujos y ecuaciones diferenciales. Hamiltonianas. Flujos especial y mapeo de Poincaré. Ejemplo del flujo lineal en el toro.
++ 07/02: Flujo lineal en el toro como suspension de una rotación. Definiciones de distancia y de topológia en espacios metricos. Sistemas dinámicos topológicos: transitoriedad topológica, minimalidad y mezclamiento topológico. Ejemplos.
