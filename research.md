@@ -34,7 +34,7 @@ Together with Luca Marchese and Corinna Ulcigrai, we proved that the Spectrum of
 In the hyperbolic case we furthermore prove that this is stable under small perturbations of the way in which we measure the excursions into the cusps.
 
 #### Papers
-1. Mauro Artigiani, Luca Marchese and Corinna Ulcigrai: [*Persistent Hall rays for Lagrange spectra at cusps of Riemann surfaces*](https://arxiv.org/abs/1710.02042), Accepted for publication in *Ergodic Theory and Dynamical Systems*.
+1. Mauro Artigiani, Luca Marchese and Corinna Ulcigrai: [*Persistent Hall rays for Lagrange spectra at cusps of Riemann surfaces*](https://doi.org/10.1017/etds.2018.143). Accepted for publication in *Ergodic Theory and Dynamical Systems*. [arXiv](https://arxiv.org/abs/1710.02042).
 2. Mauro Artigiani, Luca Marchese and Corinna Ulcigrai: [*The Lagrange spectrum of a Veech surface has a Hall ray*](https://doi.org/10.4171/GGD/384), Groups, Geometry, and Dynamics, **10** (2016), 1287--1337. [arXiv version](https://arxiv.org/abs/1409.7023)
 
 <center>
