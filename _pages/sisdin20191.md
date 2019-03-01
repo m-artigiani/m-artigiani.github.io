@@ -36,7 +36,7 @@ Systems_, Cambridge University Press, Cambridge, 2002.
 
 ### Tareas
 + [Primera Tarea](../../files/1TareaSD.pdf)
-+ [Secunda Tarea](../../files/2TareaSD.pdf)
++ [Segunda Tarea](../../files/2TareaSD.pdf)
 
 **Diario de las lecciones:**
 + 23/01: Introducción al curso.
