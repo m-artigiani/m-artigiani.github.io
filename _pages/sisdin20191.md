@@ -36,6 +36,7 @@ Systems_, Cambridge University Press, Cambridge, 2002.
 
 ### Tareas
 + [Primera Tarea](../../files/1TareaSD.pdf)
++ [Secunda Tarea](../../files/2TareaSD.pdf)
 
 **Diario de las lecciones:**
 + 23/01: Introducción al curso.
@@ -43,5 +44,11 @@ Systems_, Cambridge University Press, Cambridge, 2002.
 Mapeo de duplicación del circulo. Codifica binaria de los reales. Semiconjucación entre el mapeo de duplicación y el desplazamiento lateral. Puntos periódicos por el mapeo de duplicación.
 + 30/01: Construcción de una órbita densa para el mapeo de duplicación. Mapeo del panadero y extensiones naturales. Semiconjucación del mapeo del panadero con el desplazamiento completo. Endomorfismos y automorfismos continuos del toro. Ejemplo CAT de Arnol'd. Definición de automorfismo toral hiperbólico. Los puntos racionales en el toro son puntos periódicos por un automorfismo toral.
 + 01/02: Los puntos periódicos de un automorfismo toral son racionales. Teorema de Pick y numero de puntos periódicos de período _n_. Familia cuadrática y análisis grafica. Puntos fijos atractores y repulsores. Relación entre modulo de la derivada y estabilidad, cascada de duplicaciones de períodos. Mapeo de Gauss y fracciones continuas, definiciones.
-+ 05/02: Las digitas de la fracción continua de un irracional son el itinerario del mapeo de Gauss. Ejemplos: Herradura y el conjunto de Cantor. Flujos y ecuaciones diferenciales. Hamiltonianas. Flujos especial y mapeo de Poincaré. Ejemplo del flujo lineal en el toro.
-+ 07/02: Flujo lineal en el toro como suspension de una rotación. Definiciones de distancia y de topológia en espacios metricos. Sistemas dinámicos topológicos: transitoriedad topológica, minimalidad y mezclamiento topológico. Ejemplos.
++ 06/02: Las digitas de la fracción continua de un irracional son el itinerario del mapeo de Gauss. Ejemplos: Herradura y el conjunto de Cantor. Flujos y ecuaciones diferenciales. Hamiltonianas. Flujos especial y mapeo de Poincaré. Ejemplo del flujo lineal en el toro.
++ 08/02: Flujo lineal en el toro como suspension de una rotación. Definiciones de distancia y de topológia en espacios metricos. Sistemas dinámicos topológicos: transitoriedad topológica, minimalidad y mezclamiento topológico. Ejemplos.
++ 13/02: Mezclamiento topológico del mapeo del panadero. Conjugación topológica. Ejemplo de conjugación entre el mapeo cuadrático y el mapeo carpa. Transitividad, minimalidad y mezclamiento topológico son propiedades topológicas. Dos rotaciones son topológicamente conjugadas si y solo si los ángulos son iguales modulo 1. Frecuencia de las digitas de las potencias de 2.
++ 15/02: Definición de chaos según Devaney. Entropía topológica. Distancia de Bowen. Conjuntos separados y generadores, ejemplo del mapeo de duplicación.
++ 20/02: Entropía con conjunto separados y generadores son iguales. La rotaciones tienen entropía cero. Entropía de un automorfísmo hiperbólico del toro.
++ 22/02: Entropía por recubrimientos. Ejemplos. Cov(n, epsilon) es sub-adictiva. Equivalencia de las definiciones de entropía. La entropía no depende de la métrica, sino de la topológia. Propiedades de la entropía topológica.
++ 27/02: Dinámica simbólica: matriz de transición. Cadenas de Markov topológicas y grafos asociados. Número de caminos entre vertices del grafo y de las órbitas periódicas. Métrica para los shifts. Cilindros admisibles y simétricos. Matriz irreducible implica transitividad topológica (y vice versa).
++ 01/03 Matriz aperiodica implica mezclamiento topológico. Entropía topológica para cadenas de Markov topológicas. Partición de Markov para el mapeo CAT (sketch).
