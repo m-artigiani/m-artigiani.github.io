@@ -38,6 +38,9 @@ Systems_, Cambridge University Press, Cambridge, 2002.
 + [Primera Tarea](../../files/1TareaSD.pdf)
 + [Segunda Tarea](../../files/2TareaSD.pdf)
 
+### Examenes
++ [Parcial](../../files/1ParcialSD.pdf)
+
 **Diario de las lecciones:**
 + 23/01: Introducción al curso.
 + 25/01: Definiciones de bases: sistemas dinámicos discretos y continuos. Puntos periódicos y prepreriódicos. Rotaciones del circulo: dicotomía de las órbitas. Equidistribución modulo 1 y teorema de Weyl: las órbitas de las rotaciones irracionales son equidistribuidas modulo 1.
