@@ -51,4 +51,10 @@ Mapeo de duplicación del circulo. Codifica binaria de los reales. Semiconjucaci
 + 20/02: Entropía con conjunto separados y generadores son iguales. La rotaciones tienen entropía cero. Entropía de un automorfísmo hiperbólico del toro.
 + 22/02: Entropía por recubrimientos. Ejemplos. Cov(n, epsilon) es sub-adictiva. Equivalencia de las definiciones de entropía. La entropía no depende de la métrica, sino de la topológia. Propiedades de la entropía topológica.
 + 27/02: Dinámica simbólica: matriz de transición. Cadenas de Markov topológicas y grafos asociados. Número de caminos entre vertices del grafo y de las órbitas periódicas. Métrica para los shifts. Cilindros admisibles y simétricos. Matriz irreducible implica transitividad topológica (y vice versa).
-+ 01/03 Matriz aperiodica implica mezclamiento topológico. Entropía topológica para cadenas de Markov topológicas. Partición de Markov para el mapeo CAT (sketch).
++ 01/03: Matriz aperiodica implica mezclamiento topológico. Entropía topológica para cadenas de Markov topológicas. Partición de Markov para el mapeo CAT (sketch).
++ 06/03: Repase de teoría de la medida: álgebras de conjuntos, extensiones y medidas. Medida de Dirac, ejemplos de medidas de Lebesgue. Ejemplo de un conjunto non medible, enunciado del teorema de Banach-Tarski.
++ 08/03: Transformaciones que preservan una medida, ejemplos: rotaciones, mapeo de duplicación, CAT.
++ 13/03: El mapeo de Gauss preserva la medida de Gauss en [0,1]. Integrales con respecto a una medida. Generalización del cambio de variables y conexión con preservación de la medida.
++ 15/03: Recurrencia de Poincaré. Transformaciones ergodicas, descomposición de medidas por una transformación non ergodica. Las rotaciones racionales no son ergodicas. Teorema de densidad de Lebesgue y ergodicidad del mapeo de duplicación.
++ 20/03: Ergodicidad y funciones invariantes. Serie de Fourier, las rotaciones irracionales y los mapeos hiperbólicos del toro son ergodicos.
++ 22/03: Examen parcial.
