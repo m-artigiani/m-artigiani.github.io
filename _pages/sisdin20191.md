@@ -61,3 +61,5 @@ Mapeo de duplicación del circulo. Codifica binaria de los reales. Semiconjucaci
 + 15/03: Ergodicidad y funciones invariantes. Serie de Fourier, las rotaciones irracionales y los mapeos hiperbólicos del toro son ergodicos.
 + 20/03: Repase.
 + 22/03: Examen parcial.
++ 27/03: Corrección parcial. Teorema de Birkhoff (enunciado), corolario para transformaciones ergodicas.
++ 29/03: El teorema de Birkhoff caracteriza las transformaciones ergodicas. Transformaciones inducidas y rascacielos de Kakutani. Lema de Kac y enuciado del Lema de Kakutani-Rokhlin.
