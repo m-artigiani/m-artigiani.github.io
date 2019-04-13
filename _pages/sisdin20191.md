@@ -63,15 +63,15 @@ Mapeo de duplicación del circulo. Codifica binaria de los reales. Semiconjucaci
 + 20/03: Repase.
 + 22/03: Examen parcial.
 + 27/03: Corrección parcial. Teorema de Birkhoff (enunciado), corolario para transformaciones ergodicas.
-+ 29/03: El teorema de Birkhoff caracteriza las transformaciones ergodicas. Transformaciones inducidas y rascacielos de Kakutani. Lema de Kac y enuciado del Lema de Kakutani-Rokhlin ([EW]: pp. 61--64).
++ 29/03: El teorema de Birkhoff caracteriza las transformaciones ergodicas. Transformaciones inducidas y rascacielos de Kakutani. Lema de Kac y enuciado del Lema de Kakutani-Rokhlin (EW: pp. 61--64).
 + 03/04: Definiciones de mezclamiento y mezclamiento débil. Mezclamiento implica ergodicidad. El mapeo de duplicación es mezclante. Medidas de Bernoulli para los shift. Las medidas de Bernoulli son mezclantes.
-+ 05/04: Medida de Markov sobre cadenas de Markov. Teorema de Perron-Frobenius para matrices estocásticas. Las cadenas de Markov son mezclantes (enunciado). Descripción del algoritmo PageRank de Google ([MR]: pp. 330--335).
-+ 10/04: Demostración que las cadenas de Markov son mezclantes. Demostración que una matriz positiva es una contracción para la distancia de Hilbert ([V]: pp. 139--146, con más detalles).
-+ 12/04: Descripción de la renormalización para rotaciones ([Z]: pp. 48--50). El mapeo de Gauss es ergodico (enunciado y idea de la prueba), consecuencias para las estadísticas de los dígitos de la fracción continua de un número genérico. ([EW]: pp. 79-86, con mucho más detalles)
++ 05/04: Medida de Markov sobre cadenas de Markov. Teorema de Perron-Frobenius para matrices estocásticas. Las cadenas de Markov son mezclantes (enunciado). Descripción del algoritmo PageRank de Google (MR: pp. 330--335).
++ 10/04: Demostración que las cadenas de Markov son mezclantes. Demostración que una matriz positiva es una contracción para la distancia de Hilbert (V: pp. 139--146, con más detalles).
++ 12/04: Descripción de la renormalización para rotaciones (Z: pp. 48--50). El mapeo de Gauss es ergodico (enunciado y idea de la prueba), consecuencias para las estadísticas de los dígitos de la fracción continua de un número genérico. (EW: pp. 79-86, con mucho más detalles)
 
 #### Referencias adicionales
 Algunos temas no están en los libros escritos arriba, estas son las referencias.
-+ [EW]: M. Einsiedler, T. Ward: _Ergodic Theory, with a view towards number theory_, Springer-Verlag, London, 2011. (disponible en la biblioteca)
-+ [MR]: D. Margalit, J. Rabinoff: _Interactive Linear Algebra_, disponible [acá](https://textbooks.math.gatech.edu/ila/), también en PDF.
-+ [V]: M. Viana: _Dynamics of Interval Exchange Transformations and Teichmüller Flows_, preprint, disponible [acá](http://w3.impa.br/%7Eviana/out/ietf.pdf).
-+ [Z]: A. Zorich, _Flat Surfaces_, disponible en [arXiv](https://arxiv.org/pdf/math/0609392.pdf).
++ EW: M. Einsiedler, T. Ward: _Ergodic Theory, with a view towards number theory_, Springer-Verlag, London, 2011. (disponible en la biblioteca)
++ MR: D. Margalit, J. Rabinoff: _Interactive Linear Algebra_, disponible [acá](https://textbooks.math.gatech.edu/ila/), también en PDF.
++ V: M. Viana: _Dynamics of Interval Exchange Transformations and Teichmüller Flows_, preprint, disponible [acá](http://w3.impa.br/%7Eviana/out/ietf.pdf).
++ Z: A. Zorich, _Flat Surfaces_, disponible en [arXiv](https://arxiv.org/pdf/math/0609392.pdf).
