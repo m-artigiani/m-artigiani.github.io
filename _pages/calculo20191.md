@@ -27,3 +27,5 @@ Lunes: 9.00-11.00. Oficina: H-001.
 Libro de texto: Stewart, _Cálculo: Trascendentes Tempranas_ (Sexta edición).
 
 [**Primera tarea**](../../files/1TareaCal.pdf) **Entrega miércoles 06/02 8.00 (8am)**
+[**Segunda tarea**](../../files/2TareaCal.pdf) **Entrega miércoles 03/04 8.00 (8am)**
+[**Tercera tarea**](../../files/3TareaCal.pdf) **Entrega miércoles 24/04 13.00 (1pm)**
