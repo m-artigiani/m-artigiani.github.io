@@ -10,8 +10,11 @@ author_profile: true
 <figcaption>Drawing courtesy of <a href="https://www.facebook.com/francesco.artibani.90">Francesco Artibani</a> (<a href="https://twitter.com/Artibani1">twitter page</a>)</figcaption>
 </figure>
 
+### 2019-II
+Estoy dicatando [Cálculo diferencial](/teaching/calculo20192) y [Teoríá Ergódica](/teaching/te20192).
+
 ### 2019-I
-Estoy dictando [Calculo integral con ecuaciones diferenciales](/teaching/calculo20191/) y [Introducción a sistemas dinámicos](/teaching/sisdin20191/).
+Dicté [Cálculo integral con ecuaciones diferenciales](/teaching/calculo20191/) y [Introducción a sistemas dinámicos](/teaching/sisdin20191/).
 
 ### 2018-II
 Dicté Calculo integral con ecuaciones diferenciales.

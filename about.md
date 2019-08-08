@@ -21,3 +21,7 @@ Before that, I completed my PhD in Mathematics at the [University of Bristol](ht
 For a copy of my CV please click [here](/files/cv.pdf).
 
 For more information, you can check my [ORCID](http://orcid.org/0000-0003-3531-6323) or my [Google Scholar](https://scholar.google.com/citations?user=_0hdDg4AAAAJ).
+
+***
+
+You can watch a [video](https://www.youtube.com/watch?v=50-W7g0DjSA) where I talk (in Spanish) a bit about dynamical systems and their use in Google's algorithm Pagerank.
