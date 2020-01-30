@@ -11,8 +11,9 @@ image:
 ---
 <img style="float: left; height:600px; margin-right:30px; margin-bottom:15px;" src="../images/backportrait.jpg">
 
+I am a _profesor principal_ at the [Departamento de Matemáticas Aplicadas y Ciencias de la Computación (MACC)](https://www.urosario.edu.co/Departamento-Macc/Inicio/) of the [Universidad del Rosario](https://www.urosario.edu.co/), working in the area of Dynamical Systems and more specifically dynamics on translation surfaces and related topics, see my [Research](/research/) page for more information about it.
 
-I am a postdoctoral researcher at the [Departamento de Matemáticas](https://matematicas.uniandes.edu.co/) of the [Universidad de los Andes](https://uniandes.edu.co/), working in the area of Dynamical Systems and more specifically dynamics on translation surfaces and related topics, see my [Research](/research/) page for more information about it.
+Before that I was a postdoctoral researcher at the [Departamento de Matemáticas](https://matematicas.uniandes.edu.co/) of the [Universidad de los Andes](https://uniandes.edu.co/).
 
 Before that I had a Junior Visiting Positing (i.e. postdoctoral researcher) at the [Centro di Ricerca Matematica Ennio De Giorgi](http://crm.sns.it/), working under the supervision of [Stefano Marmi](http://homepage.sns.it/marmi/).
 
