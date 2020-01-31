@@ -29,4 +29,4 @@ Por cita.
 + Cameron, Peter J., _Introduction to Algebra_, Second Edition, Oxford Mathematics, Oxford, 2008.
 
 ### Referencias adicionales
-+ Zimmermann, Paul _et al._, [Computational Mathematics with SageMath](Computational Mathematics with SageMath)
++ Zimmermann, Paul _et al._, [Computational Mathematics with SageMath](http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf)
