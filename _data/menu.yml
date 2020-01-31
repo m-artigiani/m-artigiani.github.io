@@ -3,6 +3,11 @@
 
 - title: "Teaching"
   href: "/teaching/"
+  subcategories:
+    - subtitle: "Álgebra Abstracta"
+      subhref: "/teaching/abstracta20201"
+    - subtitle: "Lógica, Teoría de Números y Conjuntos"
+      subhref: "/teaching/ltnc20201"
 
 - title: "About"
   href: "/about/"
