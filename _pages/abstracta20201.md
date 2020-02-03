@@ -12,8 +12,7 @@ image:
 
 <figure style="float: right; width:35%; margin-left:2%; margin-bottom:2%; margin-top:2%;">
 <img src="../../images/Euclidean_Algorithm.svg" />
-<img src="../../images/Rubikcube.svg">
-<figcaption>Images courtesy of Wikimedia.</figcaption>
+<figcaption>Image courtesy of Wikimedia.</figcaption>
 </figure>
 
 ### Horario:
@@ -30,3 +29,13 @@ Por cita.
 
 ### Referencias adicionales
 + Zimmermann, Paul _et al._, [Computational Mathematics with SageMath](http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf)
+
+### Diario de las lecciones
++ 21/01: Repaso: Notación para conjuntos de números. Técnicas demonstrativas, Existen infinitos primos, raíz de 2 es irraciónal. División euclidiana en los enteros. Inducción y inducción fuerte.
++ 24/01: Repaso: Números complejos, arítmetica en los complejos, forma polar de los números complejos. Polinomios y división entre ellos. Relaciones.
+<figure style="float: left; width:20%; margin-right:2%; margin-bottom:2%; margin-top:2%;">
+<img src="../../images/Rubikcube.svg" />
+<figcaption>Image courtesy of Wikimedia.</figcaption>
+</figure>
++ 28/01: Relaciones, relaciones de equivalencia. Ejemplos. Relaciones y particiones de un conjunto. Congruencia módulo m. Máximo comun divisor y algoritmo de Euclides. Teorema de Bezout (_enunciado_).
++ 30/01: Arítmetica en Z_m. Invertibilidad multiplicativa en Z_m y máximo comun divisor. Definición de anillo. Ejemplos: enteros, campos númericos, polinomios, matrices, anillos finitos, anillo 0, un anillo finito que no es Z_m. Asociadividad de la suma entre cualquier número de terminos en un anillo.
