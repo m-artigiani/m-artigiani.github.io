@@ -17,7 +17,7 @@ image:
 
 ### Horario:
   Martes: 9.00-11.00, Aula: CASUR 506.\\
-  Viernes: 13.00-15.00, Aula: Claustro 232.
+  Viernes: 13.00-15.00, Aula: CASUR 308.
 
 **Horario de atención**:
 Por cita.
@@ -39,3 +39,5 @@ Por cita.
 </figure>
 + 28/01: Relaciones, relaciones de equivalencia. Ejemplos. Relaciones y particiones de un conjunto. Congruencia módulo m. Máximo comun divisor y algoritmo de Euclides. Teorema de Bezout (_enunciado_).
 + 30/01: Arítmetica en Z_m. Invertibilidad multiplicativa en Z_m y máximo comun divisor. Definición de anillo. Ejemplos: enteros, campos númericos, polinomios, matrices, anillos finitos, anillo 0, un anillo finito que no es Z_m. Asociadividad de la suma entre cualquier número de terminos en un anillo.
++ 04/02: Anillos booleanos. Arítmetica en anillos. Subanillos: definición y test para decidir si un subconjunto es un subanillo. Todos los subanillos de Z son de la forma mZ.
++ 07/02: Definiciones de coset a través de la relación de equivalencia. Rapresentación de la clases de equivalencia. Ejemplo: R=Z y S=mZ. Homorfísmos e isomorfísmo entre anillos. Clasificación de los homomorfísmos de Z en si mismo. Nucleo e imagen de un homomorfísmo son subanillos.
