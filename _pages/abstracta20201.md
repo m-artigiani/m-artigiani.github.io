@@ -31,7 +31,7 @@ Por cita.
 + Zimmermann, Paul _et al._, [Computational Mathematics with SageMath](http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf)
 
 ### Talleres
-+ [Primer Taller](../../files/Talle1Abstracta.pdf) **Entrega Viernes 21/02 a comienzo de clase** 
++ [Primer Taller](../../files/Taller1Abstracta.pdf) **Entrega Viernes 21/02 a comienzo de clase** 
 
 ### Diario de las lecciones
 + 21/01: Repaso: Notación para conjuntos de números. Técnicas demonstrativas, Existen infinitos primos, raíz de 2 es irraciónal. División euclidiana en los enteros. Inducción y inducción fuerte.
