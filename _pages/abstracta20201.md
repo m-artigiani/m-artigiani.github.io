@@ -31,7 +31,7 @@ Por cita.
 + Zimmermann, Paul _et al._, [Computational Mathematics with SageMath](http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf)
 
 ### Talleres
-+ [Primer Taller](../../files/Taller1Abstracta.pdf) **Entrega Viernes 21/02 a comienzo de clase** 
++ [Primer Taller](../../files/Taller1Abstracta.pdf) **Entrega Viernes 21/02 a comienzo de clase**
 
 ### Diario de las lecciones
 + 21/01: Repaso: Notación para conjuntos de números. Técnicas demonstrativas, Existen infinitos primos, raíz de 2 es irraciónal. División euclidiana en los enteros. Inducción y inducción fuerte.
@@ -45,4 +45,6 @@ Por cita.
 + 04/02: Anillos booleanos. Arítmetica en anillos. Subanillos: definición y test para decidir si un subconjunto es un subanillo. Todos los subanillos de Z son de la forma mZ.
 + 07/02: Definiciones de coset a través de la relación de equivalencia. Rapresentación de la clases de equivalencia. Ejemplo: R=Z y S=mZ. Homorfísmos e isomorfísmo entre anillos. Clasificación de los homomorfísmos de Z en si mismo. Nucleo e imagen de un homomorfísmo son subanillos.
 + 11/02: Definición de ideal. El nucleo es un ideal. Todos los ideales de Z son de la forma mZ. En un anillo con identidad los ideales que contienen la identidad son todo el anillo. Un anillo conmutativo con unidad es un campo si y solo si tiene solamente ideales triviales. Dado un anillo R existe un anillo R* con unidad que contiene un subanillo isomorfo a R.
-+ 14/02: Anillo cociente. Homorfísmo canónico, primer teorema de isomorfísmo. Ejemplo: Z\[i\]/(1+3i) es isomorfo a Z_10
++ 14/02: Anillo cociente. Homorfísmo canónico, primer teorema de isomorfísmo. Ejemplo: Z\[i\]/(1+3i) es isomorfo a Z_10.
++ 18/02: Ejemplos: Z\[i\]/(1+3i) es isomorfo a Z_10. Z_9 no es isomorfo a Z_3 x Z_3. Z_15 es isomorfo a Z_3 x Z_5.
++ 21/02: Solución del taller. Ejemplo: R[x]/(x²+1) es isomorfo a los complejos.
