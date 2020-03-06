@@ -30,8 +30,9 @@ image:
 ### Referencias adicionales
 + Zimmermann, Paul _et al._, [Computational Mathematics with SageMath](http://dl.lateralis.org/public/sagebook/sagebook-ba6596d.pdf)
 
-### Talleres
+### Talleres y Parciales
 + [Primer Taller](../../files/Taller1Abstracta.pdf) **Entrega Viernes 21/02 a comienzo de clase**
++ [Primer Parcial](../../files/Parcial1Abstracta.pdf) y [Solución](../../files/SolParcial1Abstracta.pdf)
 
 ### Diario de las lecciones
 + 21/01: Repaso: Notación para conjuntos de números. Técnicas demonstrativas, Existen infinitos primos, raíz de 2 es irraciónal. División euclidiana en los enteros. Inducción y inducción fuerte.
@@ -50,3 +51,5 @@ image:
 + 21/02: Solución del taller. Ejemplo: \\( \mathbb{R}\[x\]/(x^2+1) \\) es isomorfo a los complejos.
 + 25/02: Anillo de los polinomios con coeficientes en un anillo. Zeros de un polinomio con coeficientes en un campo y su grado. Factorización en \\( \mathbb{Z} \\): elementos irreducibles y primos; irreducible implica primo. Teorema fundamental del aritmética. Factorización en anillos: divisores del 0, unidades, ejemplo en \\(\mathbb{Z}_m \\).
 + 28/02: Primer Parcial.
++ 03/03: Solución primer parcial. Divisores del cero, unidades, irreducibles, primos. Un elemento en \\(\mathbb{Z}\_m\\) es una unidad si y solo si es primo con \\(m\\), de otra manera es un divisor del cero. Dominios a factorización unica (UFD), Lema de Gauss (_enunciado_).
++ 06/03: Un ejemplo de anillo que no sea un UFD: \\( R=\lbrace a+b\sqrt{-5}, a,b\in\mathbb{Z} \rbrace\\). Dominios a factorización única y máximo común divisor. Ideal generado por elementos \\(a\_1,\dots,a\_n\\), dominio a idealeas principales (PID).
