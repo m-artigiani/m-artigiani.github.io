@@ -20,7 +20,7 @@ image:
   Viernes: 13.00-15.00, Aula: CASUR 308.
 
 **Horario de atención**:
-  Lunes: 11.00-12.00 y 13.00-14.00
+  Lunes: 11.00-13.00, virtual, salón 221-Claustro.
 
 [Guía de clase](../../files/abstracta20201.doc)
 
@@ -53,3 +53,9 @@ image:
 + 28/02: Primer Parcial.
 + 03/03: Solución primer parcial. Divisores del cero, unidades, irreducibles, primos. Un elemento en \\(\mathbb{Z}\_m\\) es una unidad si y solo si es primo con \\(m\\), de otra manera es un divisor del cero. Dominios a factorización unica (UFD), Lema de Gauss (_enunciado_).
 + 06/03: Un ejemplo de anillo que no sea un UFD: \\( R=\lbrace a+b\sqrt{-5}, a,b\in\mathbb{Z} \rbrace\\). Dominios a factorización única y máximo común divisor. Ideal generado por elementos \\(a\_1,\dots,a\_n\\), dominio a idealeas principales (PID).
++ 10/03: PID implica UFD. Un ejemplo de UFD que no es PID: \\(\mathbb{Z}[x]\\). Dominios euclidianos (ED).
++ 13/03: ED implica PID. Factorización en ED. Como obtener un campo de un anillo: campo de fracciones. Ideales maximales y campos.
++ ~~17/03:~~ Clase cancelada. Las clases abajo son **virtuales**.
++ 20/03: Campo obtenidos agregando elementos. Definición de grupo. Ejemplos.
++ 24/03: Grupo simétrico. Notación en ciclos para las permutaciones. El grupo \\(D\_4\\) diedral del cuadrado como grupo de permutaciones. Subgrupos. Cosets izquierdos y derechos de un subgrupo.
++ 27/03: Orden de un grupo. Indice de un subgrupo. Teorema de Lagrange: \\(\|G\|=\|H\|\|G:H\|\\). Orden de un elemento.
