@@ -33,6 +33,7 @@ image:
 ### Talleres y Parciales
 + [Primer Taller](../../files/Taller1Abstracta.pdf) **Entrega Viernes 21/02 a comienzo de clase**
 + [Primer Parcial](../../files/Parcial1Abstracta.pdf) y [Solución](../../files/SolParcial1Abstracta.pdf)
++ [Segundo Taller](../../files/Taller2Abstracta.pdf) **Entrega Jueves 16/04 a comienzo de la monitoría**
 
 ### Diario de las lecciones
 + 21/01: Repaso: Notación para conjuntos de números. Técnicas demonstrativas, Existen infinitos primos, raíz de 2 es irraciónal. División euclidiana en los enteros. Inducción y inducción fuerte.
@@ -59,3 +60,5 @@ image:
 + 20/03: Campo obtenidos agregando elementos. Definición de grupo. Ejemplos.
 + 24/03: Grupo simétrico. Notación en ciclos para las permutaciones. El grupo \\(D\_4\\) diedral del cuadrado como grupo de permutaciones. Subgrupos. Cosets izquierdos y derechos de un subgrupo.
 + 27/03: Orden de un grupo. Indice de un subgrupo. Teorema de Lagrange: \\(\|G\|=\|H\|\|G:H\|\\). Orden de un elemento.
++ 31/03: Grupos cíclicos y sus subgrupos. Homomorísmos y isomorfísmos de grupos. Los grupos cíclicos del mismo orden son isomorfos. Subgrupos normales y grupos cocientes. Primer teorema de isomorfísmo para grupos.
++ 03/04: Conjugación. Centralizador de un elemento y ecuación de las clases. Centro de un grupo. Automorfísmos internos de un grupo.
