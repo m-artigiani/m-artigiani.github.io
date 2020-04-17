@@ -20,7 +20,7 @@ image:
   Viernes: 13.00-15.00, Aula: CASUR 308.
 
 **Horario de atención**:
-  Lunes: 11.00-13.00, virtual, salón 221-Claustro.
+  Lunes: 11.00-13.00, virtual, salón 234-Claustro.
 
 [Guía de clase](../../files/abstracta20201.doc)
 
