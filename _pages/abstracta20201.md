@@ -66,4 +66,5 @@ image:
 + 14/04: Ejercicios.
 + 17/04: Segundo parcial.
 + 21/04: Introducción a la teoría de códigos. Definiciones de base: alfabeto, código y su longitud. Distancia de Hamming. Códigos e-correctores y distancia mínima de un código. Taza de un código. Cotas de Hamming y del singulete.
-+ 24/04: Códigos lineales. Codificación y decodificación en abstracto. Peso de una palabra en un código lineal. Peso mínimo y distancia mínima en un código. Matriz generadora de un código lineal y su forma estándar. Ejemplo: código (7,4)  de Hamming.
++ 24/04: Códigos lineales. Codificación y decodificación en abstracto. Peso de una palabra en un código lineal. Peso mínimo y distancia mínima en un código. Matriz generadora de un código lineal y su forma estándar. Ejemplo: código (7, 4)  de Hamming.
++ 28/04: Síndrome: matriz de control de un código lineal. Relación con la matriz generadora. Decodificación a través de la síndrome. Ejemplo: código (7, 4) de Hamming.
