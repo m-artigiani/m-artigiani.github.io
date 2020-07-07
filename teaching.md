@@ -11,7 +11,8 @@ author_profile: true
 </figure>
 
 ### 2020-I
-Estoy dictando [Álgebra abstracta y codificación](/teaching/abstracta20201) y [Lógica, Teoría de Números y Conjuntos](/teaching/ltnc20201)
+Dicté Álgebra abstracta y codificación y Lógica, Teoría de Números y Conjuntos.
+Detalles y informaciones sobre el curso se encuentran por e-Aulas.
 
 ### 2019-II
 Dicté [Cálculo diferencial](/teaching/calculo20192) y [Teoríá Ergódica](/teaching/te20192).
