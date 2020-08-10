@@ -10,9 +10,13 @@ author_profile: true
 <figcaption>Drawing courtesy of <a href="https://www.facebook.com/francesco.artibani.90">Francesco Artibani</a> (<a href="https://twitter.com/Artibani1">twitter page</a>)</figcaption>
 </figure>
 
+### 2020-II
+Estoy dictando dos secciones Álgebra abstracta y Codificación y Teoría de la Computación.
+Detalles y informaciones sobre el curso se encuentran por [e-Aulas](https://e-aulas.urosario.edu.co/).
+
 ### 2020-I
-Dicté Álgebra abstracta y codificación y Lógica, Teoría de Números y Conjuntos.
-Detalles y informaciones sobre el curso se encuentran por e-Aulas.
+Dicté Álgebra abstracta y Codificación y Lógica, Teoría de Números y Conjuntos.
+Detalles y informaciones sobre el curso se encuentran por [e-Aulas](https://e-aulas.urosario.edu.co/).
 
 ### 2019-II
 Dicté [Cálculo diferencial](/teaching/calculo20192) y [Teoríá Ergódica](/teaching/te20192).
