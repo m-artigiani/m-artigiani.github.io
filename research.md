@@ -22,6 +22,16 @@ Below is a list of my research papers, divided by topic, with an informal introd
 </p> -->
 <center><img src="../images/hyperbolic.svg" width="60%"></center>
 
+## The regular octagon
+<img style="float: right; width:25%; margin-left:2%; margin-bottom:2%; margin-top:3%;"  src="../images/octagon.svg" width="40%">
+I have been interested for quite some time in the dynamical properties of the surface obtained by gluing opposite sides of a regular octagon.
+This surface is an explicit example of a Veech surface, on which one can play around.
+In the note below, I show that the continued fraction algorithm defined by John Smillie and Corinna Ulcigrai can be obtained by suitably accelerating the diagonal changes algorithm.
+Diagonal changes are a geometric way to produce the classical continued fraction expansion of irrational numbers, and have been defined for translation surfaces by Vincent Delecroix and Corinna Ulcigrai.
+
+#### Papers
+1. Mauro Artigiani: _Octagonal continued fraction and Diagonal Changes_.  [arXiv](https://arxiv.org/abs/2010.04670), _submitted_.
+
 ## Lagrange Spectrum
 **_Diophantine approximation_** is the area of number theory which studies how well real numbers can be approximate by rational ones.
 It dates back to the 19th century and it has been generalized to a variety of context.
@@ -34,7 +44,7 @@ Together with Luca Marchese and Corinna Ulcigrai, we proved that the Spectrum of
 In the hyperbolic case we furthermore prove that this is stable under small perturbations of the way in which we measure the excursions into the cusps.
 
 #### Papers
-1. Mauro Artigiani, Luca Marchese and Corinna Ulcigrai: [*Persistent Hall rays for Lagrange spectra at cusps of Riemann surfaces*](https://doi.org/10.1017/etds.2018.143). Accepted for publication in *Ergodic Theory and Dynamical Systems*. [arXiv](https://arxiv.org/abs/1710.02042).
+1. Mauro Artigiani, Luca Marchese and Corinna Ulcigrai: [*Persistent Hall rays for Lagrange spectra at cusps of Riemann surfaces*](https://doi.org/10.1017/etds.2018.143), Ergodic Theory and Dynamical Systems, **40** (2020), 2017--2072. [arXiv version](https://arxiv.org/abs/1710.02042).
 2. Mauro Artigiani, Luca Marchese and Corinna Ulcigrai: [*The Lagrange spectrum of a Veech surface has a Hall ray*](https://doi.org/10.4171/GGD/384), Groups, Geometry, and Dynamics, **10** (2016), 1287--1337. [arXiv version](https://arxiv.org/abs/1409.7023)
 
 <center>
