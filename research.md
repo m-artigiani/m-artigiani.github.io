@@ -30,7 +30,7 @@ In the note below, I show that the continued fraction algorithm defined by John 
 Diagonal changes are a geometric way to produce the classical continued fraction expansion of irrational numbers, and have been defined for translation surfaces by Vincent Delecroix and Corinna Ulcigrai.
 
 #### Papers
-1. Mauro Artigiani: _Octagonal continued fraction and Diagonal Changes_.  [arXiv](https://arxiv.org/abs/2010.04670), _submitted_.
+1. Mauro Artigiani: [*Octagonal continued fraction and Diagonal Changes*](https://rendiconti.dmi.units.it/volumi/fa/009.pdf), Rendiconti dell'Instituto di Matematica dell'Università di Trieste, **53** (2021), N. 9, 1--28. [arXiv version](https://arxiv.org/abs/2010.04670).
 
 ## Lagrange Spectrum
 **_Diophantine approximation_** is the area of number theory which studies how well real numbers can be approximate by rational ones.
