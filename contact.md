@@ -12,7 +12,7 @@ However, if you prefer to send me a real letter, you can find me at:
 Mauro Artigiani\\
 Departamento MACC\\
 Universidad del Rosario\\
-Edificio Cabal, Oficina 208\\
+Edificio Cabal, Oficina 403\\
 Carrera 6 #12C-16, Bogotá, Colombia
 
 You can also reach me on [Twitter](https://twitter.com/m_artigiani).
