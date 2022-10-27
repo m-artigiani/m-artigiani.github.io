@@ -12,12 +12,15 @@ author_profile: true
 
 Detalles y informaciones sobre los cursos se encuentran por [e-Aulas](https://e-aulas.urosario.edu.co/).
 
+## 2022-II
+Estoy dictando Álgebra abstracta y Codificación y Teoría de la Computación.
+
 ### 2022-I
-Estoy dictando Álgebra abstracta y Codificación y Lógica, Teoría de Números y Conjuntos y la porción de geometría diferencial en el curso
+Dicté Álgebra abstracta y Codificación y Lógica, Teoría de Números y Conjuntos y la porción de geometría diferencial en el curso
 Geometría Diferencial y Computacional.
 
 ### 2021-II
-Estoy dictando Teoría de la Computación y la porción de geometría diferencial en el curso
+Dicté Teoría de la Computación y la porción de geometría diferencial en el curso
 Geometría Diferencial y Computacional.
 
 ### 2021-I
