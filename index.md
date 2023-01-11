@@ -7,7 +7,7 @@ title: index
 
  <img src="/images/blackboard.jpg" alt="Me at the board" style="width:100%;">
 
-I share in [Federico Ardila](http://math.sfsu.edu/federico/)'s axioms:
+I share in [Federico Ardila](http://fardila.com/)'s axioms:
 
 Axiom 1. Mathematical talent is distributed equally among different groups, irrespective of geographic, demographic, and economic boundaries.\\
 Axiom 2. Everyone can have joyful, meaningful, and empowering mathematical experiences.\\
