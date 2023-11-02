@@ -12,7 +12,7 @@ author_profile: true
 
 Detalles y informaciones sobre los cursos se encuentran por [e-Aulas](https://e-aulas.urosario.edu.co/).
 
-## 2022-II
+## De 2022-II a 2023-II
 Estoy dictando Álgebra abstracta y Codificación y Teoría de la Computación.
 
 ### 2022-I

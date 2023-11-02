@@ -7,6 +7,7 @@ author_profile: true
 
 Below is the list of my papers, in reverse chronological order.
 
+1. Mauro Artigiani, Anja Randecker, Chandrika Sadanand, Ferrán Valdez and Gabriela Weitze-Schmithüsen: _Realizing groups as symmetries of infinite translation surfaces_. [arXiv](https://arxiv.org/abs/2311.00158)
 1. Mauro Artigiani, Livio Flaminio and Davide Ravotti: _On rigidity properties of time-changes of unipotent flows_. [arXiv](https://arxiv.org/abs/2209.01253).
 1. Mauro Artigiani, Charles Fougeron, Pascal Hubert and Alexandra Skripchenko: [*A note on double rotations of infinite type*](https://doi.org/10.1090/mosc/311). Transactions of the Moscow Mathematical Society, **2021**, 157--172. [arXiv version](https://arxiv.org/abs/2102.11803)
 1. Mauro Artigiani: [*Octagonal continued fraction and Diagonal Changes*](https://rendiconti.dmi.units.it/volumi/fa/009.pdf), Rendiconti dell'Instituto di Matematica dell'Università di Trieste, **53** (2021), N. 9, 1--28. [arXiv version](https://arxiv.org/abs/2010.04670).
