@@ -1,8 +1,9 @@
+- title: "Papers"
+  href: "/research/papers/"
+
 - title: "Research"
   href: "/research/"
   subcategories:
-  - subtitle: "Papers"
-    subhref: "/research/papers/"
 
 - title: "Teaching"
   href: "/teaching/"
