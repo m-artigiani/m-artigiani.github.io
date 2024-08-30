@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mauro Artigiani
-email: mauro.artigiani@urosario.edu.co
+email: mmartigiani@unal.edu.co
 description: >- # this means to ignore newlines until "baseurl:"
   Mauro Artigiani, tentatively mathematician at Universidad del Rosario.
   Roman borned European.
@@ -25,7 +25,7 @@ url: "http://m-artigiani.github.io" # the base hostname & protocol for your site
 
 owner:
   name: Mauro Artigiani
-  email: mauro.artigiani@urosario.edu.co
+  email: martigiani@unal.edu.co
   twitter: m_artigiani
   github:  m-artigiani
 
