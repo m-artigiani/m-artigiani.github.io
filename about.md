@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 date: 2018-10-05
-modified: 2024-08-30
+modified: 2025-03-19
 permalink: /about/
 image:
   feature: images/backportrait.jpg
@@ -11,7 +11,7 @@ image:
 ---
 <img style="float: left; height:600px; margin-right:30px; margin-bottom:15px;" src="../images/backportrait.jpg">
 
-I am a _profesor asistente_ at the [Departamento de Matemáticas](https://sites.google.com/unal.edu.co/matematicas-unal) of the [Universidad Nacional de Colombia, Sede Bogotá](https://unal.edu.co/), working in the area of Dynamical Systems and more specifically dynamics on translation surfaces and related topics, see my [Research](/research/) page for more information about it.
+I am a _profesor asociado_ at the [Departamento de Matemáticas](https://sites.google.com/unal.edu.co/matematicas-unal) of the [Universidad Nacional de Colombia, Sede Bogotá](https://unal.edu.co/), working in the area of Dynamical Systems and more specifically dynamics on translation surfaces and related topics, see my [Research](/research/) page for more information about it.
 
 Before that I was a _profesor principal_ at the [Escuela de Ingeniería, Ciencia y Tecnología](https://urosario.edu.co/escuela-de-ingenieria-ciencia-y-tecnologia) of the [Universidad del Rosario](https://www.urosario.edu.co/).
 

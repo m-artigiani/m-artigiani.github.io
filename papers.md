@@ -2,13 +2,14 @@
 layout: page
 title: "Papers"
 date: 2018-10-05
-modified: 2024-08-30
+modified: 2025-03-19
 permalink: /research/papers/
 author_profile: true
 ---
 
 Below is the list of my papers, in reverse chronological order.
 
+1. Mauro Artigiani, Pascal Hubert and Alexandra Skripchenko: _Renormalization for Bruin-Troubetzkoy ITMs_. [arXiv](https://arxiv.org/abs/2412.07928)
 1. Mauro Artigiani, Anja Randecker, Chandrika Sadanand, Ferrán Valdez and Gabriela Weitze-Schmithüsen: _Realizing groups as symmetries of infinite translation surfaces_. [arXiv](https://arxiv.org/abs/2311.00158)
 1. Mauro Artigiani, Livio Flaminio and Davide Ravotti: _On rigidity properties of time-changes of unipotent flows_. To appear in Annali della Scuola Normale Superiore di Pisa, Classe di Scienze. [Preliminary journal version](https://journals.sns.it/index.php/annaliscienze/article/view/6481/1879), [arXiv](https://arxiv.org/abs/2209.01253).
 1. Mauro Artigiani, Charles Fougeron, Pascal Hubert and Alexandra Skripchenko: [*A note on double rotations of infinite type*](https://doi.org/10.1090/mosc/311). Transactions of the Moscow Mathematical Society, **2021**, 157--172. [arXiv version](https://arxiv.org/abs/2102.11803)

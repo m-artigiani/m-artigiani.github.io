@@ -2,15 +2,19 @@
 layout: page
 title: "Teaching"
 date: 2018-10-05
-modified: 2024-08-30
+modified: 2025-03-19
 permalink: /teaching/
 author_profile: true
 ---
 
 <figure style="float: right; width:40%; margin-left:2%; margin-bottom:2%; margin-top:2%;">
 <img src="../images/topolino.jpg">
-<figcaption>Drawing courtesy of <a href="https://www.facebook.com/francesco.artibani.90">Francesco Artibani</a> (<a href="https://twitter.com/Artibani1">twitter page</a>)</figcaption>
+<figcaption>Drawing courtesy of <a href="https://www.facebook.com/francesco.artibani.90">Francesco Artibani</a> </figcaption>
 </figure>
+
+### 2024-II
+Dicté Variable Compleja para Ingenierías, Fundamentos de Matemáticas y Matemáticas Básicas.
+
 
 ### En el Rosario (de 2020-I a 2024-II)
 Dicté múltiples veces Álgebra abstracta y Codificación y Teoría de la Computación, Lógica, Teoría de Números y Conjuntos y la porción de geometría diferencial en el curso Geometría Diferencial y Computacional. Además, dicté Cálculo II.
