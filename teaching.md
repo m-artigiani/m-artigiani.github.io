@@ -2,7 +2,7 @@
 layout: page
 title: "Teaching"
 date: 2018-10-05
-modified: 2025-03-19
+modified: 2025-08-22
 permalink: /teaching/
 author_profile: true
 ---
@@ -11,6 +11,9 @@ author_profile: true
 <img src="../images/topolino.jpg">
 <figcaption>Drawing courtesy of <a href="https://www.facebook.com/francesco.artibani.90">Francesco Artibani</a> </figcaption>
 </figure>
+
+### 2025-I
+Dicté Fundamentos de Matemáticas y Superficies de Riemann.
 
 ### 2024-II
 Dicté Variable Compleja para Ingenierías, Fundamentos de Matemáticas y Matemáticas Básicas.
