@@ -2,15 +2,22 @@
 layout: page
 title: "Teaching"
 date: 2018-10-05
-modified: 2025-08-22
+modified: 2026-02-06
+lang: es
 permalink: /teaching/
 author_profile: true
 ---
 
 <figure style="float: right; width:40%; margin-left:2%; margin-bottom:2%; margin-top:2%;">
 <img src="../images/topolino.jpg">
-<figcaption>Drawing courtesy of <a href="https://www.facebook.com/francesco.artibani.90">Francesco Artibani</a> </figcaption>
+<figcaption>Drawing courtesy of <a href="https://it.wikipedia.org/wiki/Francesco_Artibani">Francesco Artibani</a> </figcaption>
 </figure>
+
+### 2026-I
+Estoy dictando Grupos y Anillos y Superficies de Riemann.
+
+### 2025-II
+Dicté Fundamentos de Matemáticas y Grupos y Anillos.
 
 ### 2025-I
 Dicté Fundamentos de Matemáticas y Superficies de Riemann.

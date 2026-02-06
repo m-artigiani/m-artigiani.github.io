@@ -2,7 +2,8 @@
 layout: page
 title: "About"
 date: 2018-10-05
-modified: 2025-03-19
+modified: 2026-02-06
+lang: en
 permalink: /about/
 image:
   feature: images/backportrait.jpg
@@ -17,7 +18,7 @@ Before that I was a _profesor principal_ at the [Escuela de Ingeniería, Ciencia
 
 Before that I was a postdoctoral researcher at the [Departamento de Matemáticas](https://matematicas.uniandes.edu.co/) of the [Universidad de los Andes](https://uniandes.edu.co/).
 
-Before that I had a Junior Visiting Positing (i.e. postdoctoral researcher) at the [Centro di Ricerca Matematica Ennio De Giorgi](http://crm.sns.it/), working under the supervision of [Stefano Marmi](http://homepage.sns.it/marmi/).
+Before that I had a Junior Visiting Positing (i.e. postdoctoral researcher) at the [Centro di Ricerca Matematica Ennio De Giorgi](https://crmdegiorgi.sns.it/), working under the supervision of [Stefano Marmi](http://homepage.sns.it/marmi/).
 
 Before that, I completed my PhD in Mathematics at the [University of Bristol](http://www.bristol.ac.uk/maths/), under the supervision of [Corinna Ulcigrai](http://user.math.uzh.ch/ulcigrai/).
 
