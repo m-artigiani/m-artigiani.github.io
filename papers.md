@@ -2,7 +2,7 @@
 layout: page
 title: "Papers"
 date: 2018-10-05
-modified: 2026-02-06
+modified: 2026-03-24
 lang: en
 permalink: /research/papers/
 author_profile: true
@@ -12,10 +12,11 @@ Below is the list of my papers, in reverse chronological order.
 All my mathematical papers can be found at the [arXiv](https://arxiv.org/search/math?searchtype=author&query=Artigiani%2C+M) too.
 
 ## Preprints 
+1. Mauro Artigiani, Artur Avila, Sébastien Ferenczi, Pascal Hubert and Alexandra Skripchenko: _Typical Weak Mixing and Exceptional Spectral Properties for Interval Translation Mappings_. [arXiv](https://arxiv.org/abs/2603.19401)
 1. Mauro Artigiani, Anja Randecker, Chandrika Sadanand, Ferrán Valdez and Gabriela Weitze-Schmithüsen: _Veech groups of covers of the Chamanara surface_. [arXiv](https://arxiv.org/abs/2504.00956)
-1. Mauro Artigiani, Anja Randecker, Chandrika Sadanand, Ferrán Valdez and Gabriela Weitze-Schmithüsen: _Realizing groups as symmetries of infinite translation surfaces_. [arXiv](https://arxiv.org/abs/2311.00158)
 
 ## Published
+1. Mauro Artigiani, Anja Randecker, Chandrika Sadanand, Ferrán Valdez and Gabriela Weitze-Schmithüsen: _Realizing groups as symmetries of infinite translation surfaces_. To appear in Algebraic & Geometric Topology. [arXiv](https://arxiv.org/abs/2311.00158)
 1. Mauro Artigiani, Pascal Hubert and Alexandra Skripchenko: [_Renormalization for Bruin-Troubetzkoy ITMs_](https://www.aimsciences.org/article/doi/10.3934/dcds.2025127). Discrete and Continuous Dynamical Systems, **47** (2026), 519--547.  [arXiv version](https://arxiv.org/abs/2412.07928)
 1. Mauro Artigiani, Livio Flaminio and Davide Ravotti: _On rigidity properties of time-changes of unipotent flows_. To appear in Annali della Scuola Normale Superiore di Pisa, Classe di Scienze. [Preliminary journal version](https://journals.sns.it/index.php/annaliscienze/article/view/6481/1879), [arXiv](https://arxiv.org/abs/2209.01253).
 1. Mauro Artigiani, Charles Fougeron, Pascal Hubert and Alexandra Skripchenko: [*A note on double rotations of infinite type*](https://doi.org/10.1090/mosc/311). Transactions of the Moscow Mathematical Society, **2021**, 157--172. [arXiv version](https://arxiv.org/abs/2102.11803)
