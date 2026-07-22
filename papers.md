@@ -2,7 +2,7 @@
 layout: page
 title: "Papers"
 date: 2018-10-05
-modified: 2026-03-24
+modified: 2026-07-22
 lang: en
 permalink: /research/papers/
 author_profile: true
@@ -12,6 +12,7 @@ Below is the list of my papers, in reverse chronological order.
 All my mathematical papers can be found at the [arXiv](https://arxiv.org/search/math?searchtype=author&query=Artigiani%2C+M) too.
 
 ## Preprints 
+1. Mauro Artigiani, Roberto Castorrini, Davide Ravotti and Yuriy Tumarkin: _Maharam-Pollicott-Ruelle resonances and self-similar translation flows on abelian covers_. [arXiv](https://arxiv.org/abs/2607.11482)
 1. Mauro Artigiani, Artur Avila, Sébastien Ferenczi, Pascal Hubert and Alexandra Skripchenko: _Typical Weak Mixing and Exceptional Spectral Properties for Interval Translation Mappings_. [arXiv](https://arxiv.org/abs/2603.19401)
 1. Mauro Artigiani, Anja Randecker, Chandrika Sadanand, Ferrán Valdez and Gabriela Weitze-Schmithüsen: _Veech groups of covers of the Chamanara surface_. [arXiv](https://arxiv.org/abs/2504.00956)
 
